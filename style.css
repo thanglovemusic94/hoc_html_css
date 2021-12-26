@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    max-width: 520px;
+    margin: 0 auto;
+    
+}
+
+img{
+    vertical-align: bottom;
+    width: 520px;
+    height: 312px;
+    margin-bottom: 20px;
+}
+
+.tintucnoibat{
+    display: flex;
+}
+
+.tintucnoibat__noidung1 div:first-child, .tintucnoibat__noidung2 div:first-child{
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #222222;
+}
+
+.tintucnoibat__noidung2{
+    margin-left: 20px;
+}
